@@ -1,0 +1,60 @@
+/*body{
+	 background-image: url("img/orangeWater.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+/*#portfolio{
+	left:50%;
+	position:absolute;
+	top:300px;
+}
+h1, h3, h4{
+	color:#fff;
+	font-size:700;
+	margin-top: 45px;
+	text-shadow: 2px 1px #000066;
+	text-align: center;
+	margin: 0 auto;
+
+
+}
+ 
+Skills Summary*/
+
+
+
+
+/*about me*/
+#top{
+	padding: 25px;
+}
+
+.portfoloio{
+
+}
+ .projects {
+ 	display: none;
+ }
+ .projects2{
+ 	display:block;
+ }
+ .thumbnail img:hover{
+	transform:scale(1.1);
+}
+
+.thumbnail img{
+	transition: all 0.3s ease 0s;
+	width:100%;
+}
+ #projects p{
+ 	color:#D8284E;
+ 	text-align:center;
+ 	font-size: 18px;
+ 	padding: 5px;
+ }
+ #projects h4{
+ 	text-align:center;
+ 	color:#D8284E;
+ } 
